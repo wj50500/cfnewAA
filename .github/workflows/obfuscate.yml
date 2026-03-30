@@ -31,7 +31,7 @@ jobs:
           const fs = require('fs');
           const path = require('path');
           
-          const sourceFileName = '明文源吗';
+          const sourceFileName = '2.9.6';
           const outputFileName = '少年你相信光吗';
           const sourceFilePath = path.join(process.cwd(), sourceFileName);
 
